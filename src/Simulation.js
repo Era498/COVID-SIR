@@ -425,7 +425,7 @@ class Simulation extends Component {
     <button 
          className = "homeButton"  
          style={{backgroundColor:"#D09090", marginBottom: "2%", marginTop: "2%", fontSize: "large"}}
-         onClick={event =>  window.location.href='https://festive-wilson-5bcfd5.netlify.app/'}
+         onClick={event =>  window.location.href='https://erinbeasley.com/'}
          >
            Back to main page
            </button>
